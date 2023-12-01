@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d4feaab.css",
+    "main.js": "/static/js/main.bd95a4d6.js",
+    "static/media/iphone-img.png": "/static/media/iphone-img.080029ada53f0cd57453.png",
+    "static/media/iphone-gradient.jpg": "/static/media/iphone-gradient.7c29dae15b9f2bc8f4bc.jpg",
+    "index.html": "/index.html",
+    "main.1d4feaab.css.map": "/static/css/main.1d4feaab.css.map",
+    "main.bd95a4d6.js.map": "/static/js/main.bd95a4d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4feaab.css",
+    "static/js/main.bd95a4d6.js"
+  ]
+}
